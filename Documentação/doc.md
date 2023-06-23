@@ -1,3 +1,5 @@
+
+
 \## Orientações de Instalação
 
 1. Instalar o Python3 e o pip3
