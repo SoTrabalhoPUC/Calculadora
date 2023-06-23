@@ -1,5 +1,3 @@
-Claro! Aqui está o texto em formato Markdown com todas as alterações:
-
 \## Orientações de Instalação
 
 1. Instalar o Python3 e o pip3
